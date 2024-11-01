@@ -1,4 +1,4 @@
-# TCL-OS and DepAnalyzer
+# DepAnalyzer
 A repository housing two advanced system software projects: TCL-OS, an ARM64 operating system with complete hardware support and multi-level privilege modes, and DepAnalyzer, an LLVM-based dependency analysis tool aimed at optimizing code dependencies for nested loops. Each project brings unique contributions to system software development, from low-level OS operations to high-level code analysis and optimization.
 
 ## Features
